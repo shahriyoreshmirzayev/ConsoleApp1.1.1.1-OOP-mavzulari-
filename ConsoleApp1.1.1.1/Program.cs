@@ -14,7 +14,7 @@ namespace ConsoleApp1._1._1._1
             int sum = Calculator.Add(2, 3);
             Console.WriteLine(sum);
 
-
+            Console.WriteLine("hello");
 
             //AddAttributes addAttributes = new AddAttributes();
             //int sum = addAttributes.Qoshish(6, 7);
